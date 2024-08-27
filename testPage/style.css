@@ -1,5 +1,7 @@
 body {
   background-image: url("image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 main {
   background: #dbbff2af;
@@ -138,4 +140,9 @@ main > div > div > img {
 }
 #answers30 * {
   width: 110px;
+}
+
+/* active */
+.active {
+  display: block;
 }
