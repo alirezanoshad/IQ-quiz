@@ -38,7 +38,7 @@ containerTagDivSecondDiv_Div_FirstDiv.append(
 const containerTagDivSecondDiv_Div_FirstDivInput =
   document.createElement("input");
 containerTagDivSecondDiv_Div_FirstDivInput.id = "nameInput";
-containerTagDivSecondDiv_Div_FirstDivInput.placeholder = "Age";
+containerTagDivSecondDiv_Div_FirstDivInput.placeholder = "  Name";
 containerTagDivSecondDiv_Div_FirstDivInput.type = "text";
 containerTagDivSecondDiv_Div_FirstDiv.append(
   containerTagDivSecondDiv_Div_FirstDivInput
@@ -58,7 +58,7 @@ containerTagDivSecondDiv_Div_secondDiv.append(
 const containerTagDivSecondDiv_Div_secondDivInput =
   document.createElement("input");
 containerTagDivSecondDiv_Div_secondDivInput.id = "ageInput";
-containerTagDivSecondDiv_Div_secondDivInput.placeholder = "Age";
+containerTagDivSecondDiv_Div_secondDivInput.placeholder = "  Age";
 containerTagDivSecondDiv_Div_secondDivInput.type = "text";
 containerTagDivSecondDiv_Div_secondDiv.append(
   containerTagDivSecondDiv_Div_secondDivInput
