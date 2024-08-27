@@ -76,6 +76,7 @@ body{
     color: rgba(255, 241, 241, 0.882);
 }
 #topP , #midP {
+    margin-top: 1px;
     margin-left: 12px;
 }
 #midP {

@@ -51,7 +51,7 @@ containerTagSecondDiv_DivSecondDiv.append(containerTagSecondDiv_DivSecondDivP2)
 //Third p tag
 const containerTagSecondDiv_DivSecondDivP3 = document.createElement('p')
 containerTagSecondDiv_DivSecondDivP3.id = 'botP'
-containerTagSecondDiv_DivSecondDivP3.textContent = 'In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without.'
+containerTagSecondDiv_DivSecondDivP3.textContent = "Thank you for taking the IQ test! Your score suggests average intelligence. While this might not be what you expected, remember that IQ tests only measure certain skills.Everyone has unique strengths,but remember you are Dumb!..'You Alone Are The Honored One'"
 containerTagSecondDiv_DivSecondDiv.append(containerTagSecondDiv_DivSecondDivP3)
 //rightDiv Ends
 // third div (insdie container) begins
