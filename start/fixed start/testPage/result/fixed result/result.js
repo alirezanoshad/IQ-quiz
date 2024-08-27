@@ -48,6 +48,14 @@ const containerTagSecondDiv_DivSecondDivP2 = document.createElement('p')
 containerTagSecondDiv_DivSecondDivP2.id = 'midP'
 containerTagSecondDiv_DivSecondDivP2.textContent = 'IQ'
 containerTagSecondDiv_DivSecondDiv.append(containerTagSecondDiv_DivSecondDivP2)
+//mid p IQQQ
+const IQDiv = document.createElement('div')
+IQDiv.id = 'iqDiv'
+containerTagSecondDiv_DivSecondDivP2.append(IQDiv)
+const IQ = document.createElement('a')
+IQ.text = '50'
+IQ.id = 'iq'
+IQDiv.append(IQ)
 //Third p tag
 const containerTagSecondDiv_DivSecondDivP3 = document.createElement('p')
 containerTagSecondDiv_DivSecondDivP3.id = 'botP'
