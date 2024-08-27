@@ -60,7 +60,7 @@ containerTagThirdDiv.classList.add('startBtn')
 containerTag.append(containerTagThirdDiv)
 //has a*1 ta within it
 const containerTagThirdDivA = document.createElement('a')
-containerTagThirdDivA.href = '#'
+containerTagThirdDivA.href = 'https://alirezanoshad.github.io/IQ-quiz/'
 containerTagThirdDivA.id = 'startBtnA'
 containerTagThirdDivA.textContent = 'START AGAIN'
 containerTagThirdDiv.append(containerTagThirdDivA)
