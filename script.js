@@ -207,9 +207,13 @@ main4TagIntroduce1_DivP1.textContent = 'Hadi Bahadori'
 main4TagIntroduce1_Div.append(main4TagIntroduce1_DivP1)
 //second p
 const main4TagIntroduce1_DivP2 = document.createElement('p')
-main4TagIntroduce1_DivP2.id = 'desc2'
-main4TagIntroduce1_DivP2.textContent = 'n publishing and graphic design, Lorem ipsum is a placeholder'
+main4TagIntroduce1_DivP2.id = 'desc1'
+main4TagIntroduce1_DivP2.textContent = 'a 21 Year-old Front End Developer From Iran.'
+const main4TagIntroduce1_DivP3 = document.createElement("p")
+main4TagIntroduce1_DivP3.id = "language1"
+main4TagIntroduce1_DivP3.textContent = 'languages: Html, Css, Java Script'
 main4TagIntroduce1_Div.append(main4TagIntroduce1_DivP2)
+main4TagIntroduce1_Div.append(main4TagIntroduce1_DivP3)
 //////
 ///////second member to introduce
 const main4TagIntroduce2 = document.createElement('div')
@@ -239,8 +243,12 @@ main4TagIntroduce2_Div.append(main4TagIntroduce2_DivP1)
 //second p
 const main4TagIntroduce2_DivP2 = document.createElement('p')
 main4TagIntroduce2_DivP2.id = 'desc2'
-main4TagIntroduce2_DivP2.textContent = 'n publishing and graphic design, Lorem ipsum is a placeholder'
+main4TagIntroduce2_DivP2.textContent = 'a 16 Year-old Front End Developer From Iran.'
+const main4TagIntroduce2_DivP3 = document.createElement("p")
+main4TagIntroduce2_DivP3.id = "language1"
+main4TagIntroduce2_DivP3.textContent = 'languages: Html, Css, Java Script'
 main4TagIntroduce2_Div.append(main4TagIntroduce2_DivP2)
+main4TagIntroduce2_Div.append(main4TagIntroduce2_DivP3)
 ////
 ///////third member to introduce
 const main4TagIntroduce3 = document.createElement('div')
@@ -270,8 +278,12 @@ main4TagIntroduce3_Div.append(main4TagIntroduce3_DivP1)
 //second p
 const main4TagIntroduce3_DivP2 = document.createElement('p')
 main4TagIntroduce3_DivP2.id = 'desc3'
-main4TagIntroduce3_DivP2.textContent = 'n publishing and graphic design, Lorem ipsum is a placeholder'
+main4TagIntroduce3_DivP2.textContent = 'a 16 Year-old Front End Developer From Iran.'
+const main4TagIntroduce3_DivP3 = document.createElement("p")
+main4TagIntroduce3_DivP3.id = "language1"
+main4TagIntroduce3_DivP3.textContent = 'languages: Html, Css, Java Script'
 main4TagIntroduce3_Div.append(main4TagIntroduce3_DivP2)
+main4TagIntroduce3_Div.append(main4TagIntroduce3_DivP3)
 ////
 ///////forth member to introduce
 const main4TagIntroduce4 = document.createElement('div')
@@ -301,8 +313,12 @@ main4TagIntroduce4_Div.append(main4TagIntroduce4_DivP1)
 //second p
 const main4TagIntroduce4_DivP2 = document.createElement('p')
 main4TagIntroduce4_DivP2.id = 'desc4'
-main4TagIntroduce4_DivP2.textContent = 'n publishing and graphic design, Lorem ipsum is a placeholder'
+main4TagIntroduce4_DivP2.textContent = 'a 21 Year-old Front End Developer From Iran.'
+const main4TagIntroduce4_DivP3 = document.createElement("p")
+main4TagIntroduce4_DivP3.id = "language1"
+main4TagIntroduce4_DivP3.textContent = 'languages: Html, Css, Java Script'
 main4TagIntroduce4_Div.append(main4TagIntroduce4_DivP2);
+main4TagIntroduce4_Div.append(main4TagIntroduce4_DivP3)
 ////
 //introduce ends
 //main 4 ends
