@@ -2877,6 +2877,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
     
     
@@ -2889,6 +2890,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
   }
   function active30_3() {
@@ -2899,6 +2901,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
   }
   function active30_4() {
@@ -2909,6 +2912,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
   }
   function active30_5() {
@@ -2919,6 +2923,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
   }
   function active30_6() {
@@ -2929,6 +2934,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
   }
   function active30_7() {
@@ -2939,6 +2945,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
   }
   function active30_8() {
@@ -2949,6 +2956,7 @@ function active30_1() {
       let x = 100*30/valueArray.length;
       let result = (x * 1.5) + 50;
       console.log(result);
+      window.location.href = "./result/fixed result/result.html";
     }
   }
   img1_30.setAttribute("onclick", "active30_1()");
