@@ -2959,6 +2959,10 @@ function active30_1() {
       window.location.href = "./result/fixed result/result.html";
     }
   }
+
+
+
+  
   img1_30.setAttribute("onclick", "active30_1()");
   img2_30.setAttribute("onclick", "active30_2()");
   img3_30.setAttribute("onclick", "active30_3()");
