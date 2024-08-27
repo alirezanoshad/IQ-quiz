@@ -53,13 +53,13 @@ const IQDiv = document.createElement('div')
 IQDiv.id = 'iqDiv'
 containerTagSecondDiv_DivSecondDivP2.append(IQDiv)
 const IQ = document.createElement('a')
-IQ.text = '50'
+IQ.text = '61'
 IQ.id = 'iq'
 IQDiv.append(IQ)
 //Third p tag
 const containerTagSecondDiv_DivSecondDivP3 = document.createElement('p')
 containerTagSecondDiv_DivSecondDivP3.id = 'botP'
-containerTagSecondDiv_DivSecondDivP3.textContent = "Thank you for taking the IQ test! Your score suggests average intelligence. While this might not be what you expected, remember that IQ tests only measure certain skills.Everyone has unique strengths,but remember you are Dumb!..'You Alone Are The Honored One'"
+containerTagSecondDiv_DivSecondDivP3.textContent = "Thank you for taking the IQ test! Your score suggests average intelligence. While this might not be what you expected, remember that IQ tests only measure certain skills.Everyone has unique strengths,but remember you are Dumb!..'You Alone Are The Monkey One'"
 containerTagSecondDiv_DivSecondDiv.append(containerTagSecondDiv_DivSecondDivP3)
 //rightDiv Ends
 // third div (insdie container) begins
