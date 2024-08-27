@@ -1,1 +1,1 @@
-# IQ-guiz
+# IQ-quiz
