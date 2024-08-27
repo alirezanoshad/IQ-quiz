@@ -1,0 +1,141 @@
+body {
+  background-image: url("image.png");
+}
+main {
+  background: #dbbff2af;
+  height: 600px;
+  width: 1000px;
+  margin: auto;
+  margin-top: 10%;
+  position: relative;
+  border: 2px solid rgb(153, 80, 222);
+  text-align: center;
+}
+p:first-of-type {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  font-family: monospace;
+  color: rgb(153, 80, 222);
+  font-size: 15px;
+}
+p:last-of-type {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  font-family: monospace;
+  color: rgb(153, 80, 222);
+  font-size: 15px;
+}
+main > div {
+  display: none;
+  margin-top: 5%;
+}
+main > div > div > img {
+  margin-top: 10%;
+}
+#question1 {
+  display: block;
+}
+#answers1 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers2 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers3 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers4 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers5 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers6 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers7 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers8 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers9 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers10 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers11 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers12 * {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#answers13 * {
+  width: 110px;
+}
+#answers14 * {
+  width: 110px;
+}
+#answers15 * {
+  width: 110px;
+}
+#answers16 * {
+  width: 110px;
+}
+#answers17 * {
+  width: 110px;
+}
+#answers18 * {
+  width: 110px;
+}
+#answers19 * {
+  width: 110px;
+}
+#answers20 * {
+  width: 110px;
+}
+#answers21 * {
+  width: 110px;
+}
+#answers22 * {
+  width: 110px;
+}
+#answers23 * {
+  width: 110px;
+}
+#answers24 * {
+  width: 110px;
+}
+#answers25 * {
+  width: 110px;
+}
+#answers26 * {
+  width: 110px;
+}
+#answers27 * {
+  width: 110px;
+}
+#answers28 * {
+  width: 110px;
+}
+#answers29 * {
+  width: 110px;
+}
+#answers30 * {
+  width: 110px;
+}
